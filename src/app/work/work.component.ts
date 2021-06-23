@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class WorkComponent implements OnInit {
 
   
-  work1: string = "TQL";
-  work2: string = "UFL";
+  work1: string = "Total Quality Logistics";
+  work2: string = "United Financial Life";
 
   constructor() { }
 

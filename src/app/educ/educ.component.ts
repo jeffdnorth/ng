@@ -7,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EducComponent implements OnInit {
 
-  education1: string = "University of Cincinnati";
+  schools:  string[] = [
+
+  "University of Cincinnati",
+  "Greenhills Highshool"
+  ];
 
 
   constructor() { }
